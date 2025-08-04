@@ -1,0 +1,5 @@
+# This file contains all the file name that I don't want to push it or I don't want to upload in my github repositary
+
+myvenv
+dataset
+model_training.ipynb
